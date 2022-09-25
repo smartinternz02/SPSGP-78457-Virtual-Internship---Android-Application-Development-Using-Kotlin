@@ -1,4 +1,4 @@
-package com.divyanshu.roshangroceryapp
+package com.roshan.roshangroceryapp
 
 import android.view.LayoutInflater
 import android.view.View

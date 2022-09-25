@@ -1,4 +1,4 @@
-package com.divyanshu.roshangroceryapp
+package com.roshan.roshangroceryapp
 
 class GroceryRepository(private val db:GroceryDatabase) {
     suspend fun insert(items: GroceryItems) = db.getGroceryDao().insert(items)

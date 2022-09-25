@@ -1,4 +1,4 @@
-package com.divyanshu.roshangroceryapp
+package com.roshan.roshangroceryapp
 
 import androidx.room.ColumnInfo
 import androidx.room.Entity
